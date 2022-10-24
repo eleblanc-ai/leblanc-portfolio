@@ -1,5 +1,5 @@
 # Writing portfolio of Emily LeBlanc, PhD.
-Visit my CV [here](/CV/LeBlanc_CV.pdf).
+Download my CV [here](/CV/LeBlanc_CV.pdf).
 
 
 ## Selected papers
