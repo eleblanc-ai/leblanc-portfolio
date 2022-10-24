@@ -2,6 +2,7 @@
 
 * Check out my [bio](/about/BIO.md).
 * Download my [CV](/about/LeBlanc_CV.pdf).
+* Learn more about me on [LinkedIn](https://www.linkedin.com/in/emily-leblanc-217a0042).
 
 
 
