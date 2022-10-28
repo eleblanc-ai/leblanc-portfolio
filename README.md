@@ -21,7 +21,7 @@ I've documented many software projects over the years. Here are some snippets fr
 * [Architecture Views](/software-documentation/architecture-views.pdf)
 * [Tutorial](/software-documentation/tutorial.pdf)
 
-Visit the [documentation](https://quails.readthedocs.io/en/latest/).
+Visit this [documentation on readthedocs.io](https://quails.readthedocs.io/en/latest/).
 
 ## Dissertation selections
 The largest writing project I've ever completed. The samples demonstrate my ability to communicate novel scientific work.
