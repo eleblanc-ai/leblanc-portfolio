@@ -23,7 +23,7 @@ I've documented many software projects over the years. Here are some snippets fr
 
 Visit the [documentation](https://quails.readthedocs.io/en/latest/).
 
-## Dissertation Selections
+## Dissertation selections
 The largest writing project I've ever completed. The samples demonstrate my ability to communicate novel scientific work.
 
 * [Abstract](/dissertation/abstract.pdf)     
