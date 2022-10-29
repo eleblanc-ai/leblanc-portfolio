@@ -1,10 +1,12 @@
 # Writing portfolio of Emily LeBlanc, PhD.
 
 * Check out my [bio](/about/BIO.md).
-* Download my [CV](/about/LeBlanc_CV.pdf).
+* Download my:
+
+    * [Full CV](https://github.com/eleblanc-ai/writing-portfolio/blob/main/about/LeBlanc_full_CV_2022.pdf)
+    * [Writing CV](https://github.com/eleblanc-ai/writing-portfolio/blob/main/about/LeBlanc_writing_CV_2022.pdf).
+
 * Learn more about me on [LinkedIn](https://www.linkedin.com/in/emily-leblanc-217a0042).
-
-
 
 ## Selected papers
 The following papers describe some of my more recent research. The papers demonstrate my ability to communicate scientific and technical subject matter.
