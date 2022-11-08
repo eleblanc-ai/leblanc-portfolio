@@ -23,7 +23,7 @@ Here are some snippets from a 2016 research project on question answering system
 
 Visit this [documentation on readthedocs.io](https://quails.readthedocs.io/en/latest/).
 
-## Dissertation selections
+## PhD Dissertation
 The largest writing project I've ever completed. 
 
 * [Abstract](/dissertation/abstract.pdf)     
@@ -32,8 +32,6 @@ The largest writing project I've ever completed.
 * [Technical Example (sample)](/dissertation/technical-example.pdf)
 
 Download the [full dissertation](/dissertation/dissertation-full.pdf).
-
-
 
 ## Workshop proposal
 An event that I've organized with the help of the CAUSAL program committee for 4 years. 
