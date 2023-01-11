@@ -11,6 +11,8 @@ The following papers discuss some of my more recent research.
 * [Explaining Actual Causation via Reasoning about Actions and Change](/selected-papers/lbv_jelia2019.pdf). Emily LeBlanc, Marcello Balduccini, Joost Vennekens. 16th edition of the European Conference on Logics in Artificial Intelligence (JELIA 2019), 2019.
 
 ## Technical writing
+Visit the [documentation directory](https://github.com/eleblanc-ai/SweetPea/tree/main/docs) of the [SweetPea web development kit](https://github.com/eleblanc-ai/SweetPea).
+
 Check out my [blog](https://eleblanc.dev) for recent writing samples.
 
 Here are some snippets from a 2016 research project on question answering systems.
