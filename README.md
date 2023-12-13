@@ -1,6 +1,6 @@
 # Writing portfolio of Emily LeBlanc, PhD.
 
-* Download my [full CV](/about/LeBlanc_full_CV_2022.pdf) and [technical writing CV](/about/LeBlanc_writing_CV_2022.pdf)
+* Download my [full CV](/about/LeBlanc_CV_2023.pdf) and [technical writing CV](/about/LeBlanc_resume_2023.pdf)
 * Learn more about me on [LinkedIn](https://www.linkedin.com/in/emily-leblanc-217a0042).
 
 ## Selected papers
