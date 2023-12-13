@@ -13,7 +13,7 @@ The following papers discuss some of my more recent research.
 ## Technical writing
 Visit the [documentation directory](https://github.com/eleblanc-ai/SweetPea/tree/main/docs) of the [SweetPea web development kit](https://github.com/eleblanc-ai/SweetPea).
 
-Check out my [blog](https://eleblanc.dev) for recent writing samples.
+<!--Check out my [blog](https://eleblanc.dev) for recent writing samples.-->
 
 Here are some snippets from a 2016 research project on question answering systems.
 
